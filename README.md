@@ -1,5 +1,6 @@
 # Scrapers
-This repo contains scripts to scrape social media platforms 
+This repo contains scripts to scrape platforms 
 - Twitter;
 - Discord;
-- Reddit.
+- Reddit;
+- Google trends.
